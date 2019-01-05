@@ -7,4 +7,3 @@ http://www.syhbyl.tw/jx/api/?url=
 https://vip.hackmg.com/jx/index.php?url=
 https://jx.wslmf.com/?url=
 https://api.52xmw.com/?url=
-http://app.baiyug.cn:2019/vip/index.php?url=
